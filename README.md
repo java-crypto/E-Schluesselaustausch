@@ -11,3 +11,11 @@ Website: http://javacrypto.bplaced.net The programs in this area show examples o
 * Security notice * Some program are cryptographic unsafe and should not used in any production case, they are provided for learning purposes only. All programms are runnable with Java 8 and Java 11.
 
 You find explanations to all programs here: http://javacrypto.bplaced.net/e-schluesselaustausch/
+
+E01_DiffieHellmanKeyexchange.java: http://javacrypto.bplaced.net/e01-diffie-hellmann-schluesselaustausch/
+
+E02_EcdhKeyexchange.java: http://javacrypto.bplaced.net/e02-ecdh-schluesselaustausch/
+
+E03_EcdhKeyexchangeSignature.java: http://javacrypto.bplaced.net/e03-ecdh-schluesselaustausch-mit-signatur/
+
+E04_EcCurve25519KeyexchangeSignature.java: http://javacrypto.bplaced.net/e04-ec-kurve-25519-schluesselaustausch-mit-signatur/
